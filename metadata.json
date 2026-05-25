@@ -1,0 +1,6 @@
+{
+  "name": "EthioTour",
+  "description": "An interactive, ultra-professional travel guide & booking app for exploring the rich heritage, landmarks, hotels, and tourist places in Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
